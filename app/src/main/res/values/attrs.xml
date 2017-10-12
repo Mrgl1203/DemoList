@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TestView2">
+        <attr name="radius" format="integer" />
+        <attr name="image" format="reference" />
+        <attr name="textsize" format="dimension" />
+        <attr name="text" format="string" />
+        <attr name="imagewidth" format="dimension" />
+        <attr name="imageheight" format="dimension" />
+    </declare-styleable>
+</resources>

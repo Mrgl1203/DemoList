@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Github_FUZZ\\0221\\testdemo\\BarCodeTest原版library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Github_FUZZ\\0221\\testdemo\\BarCodeTest原版library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Github_FUZZ\\0221\\testdemo\\BarCodeTest原版library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\navbar.9.png",
+        "source": "E:\\Github_FUZZ\\0221\\testdemo\\BarCodeTest原版library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\navbar.9.png"
+    }
+]
